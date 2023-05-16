@@ -8,11 +8,7 @@ import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.TextField;
 
-/**
- * FXML Controller class
- *
- * @author Sluski
- */
+
 public class CalculatorController implements Initializable {
 
     private static List<String> operations;
